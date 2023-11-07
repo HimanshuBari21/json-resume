@@ -1,1 +1,73 @@
-
+{
+    "displayName": "Himanshu Bari",
+    "fullName": "Himanshu Yuvraj Bari",
+    "dateOfBirth": "2001-12-17",
+    "phoneNumber": "+918849959488",
+    "secondaryPhoneNumber": null,
+    "fatherName": "Yuvraj Sohanlal Bari",
+    "motherName": "Sarita Yovraj Bari",
+    "mailId": "himanshubari789@gmail.com",
+    "skills": [
+        {
+            "name": "HTML",
+            "version": "5"
+        },
+        {
+            "name": "CSS",
+            "version": "3"
+        },
+        {
+            "name": "JavaScript",
+            "version": "ES6"
+        },
+        {
+            "name": "React.js",
+            "version": "<16"
+        },
+        {
+            "name": "Next.js (App + Page)",
+            "version": "<13"
+        },
+        {
+            "name": "JavaScript",
+            "version": "ES6"
+        },
+        {
+            "name": "Firebase"
+        },
+        {
+            "name": "Tailwind CSS"
+        },
+        {
+            "name": "Material UI"
+        },
+        {
+            "name": "Mantine UI"
+        },
+        {
+            "name": "Node.js/Express.js"
+        },
+        {
+            "name": "MongoDB - mongoose"
+        },
+        {
+            "name": "Google Workspace"
+        },
+        {
+            "name": "MS Office"
+        }
+    ],
+    "educationalQualifications": [
+        {
+            "name": "Diploma in Information Technology",
+            "instututionName": "Gujarat Technical University, Ahmedabad",
+            "passingYear": "2022",
+            "percentage": null,
+            "cgpa": 8.2,
+            "tenure": 3
+        },
+        {
+            "name": ""
+        }
+    ]
+}
