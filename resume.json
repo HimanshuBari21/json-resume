@@ -1,73 +1,121 @@
 {
-    "displayName": "Himanshu Bari",
-    "fullName": "Himanshu Yuvraj Bari",
-    "dateOfBirth": "2001-12-17",
-    "phoneNumber": "+918849959488",
-    "secondaryPhoneNumber": null,
-    "fatherName": "Yuvraj Sohanlal Bari",
-    "motherName": "Sarita Yovraj Bari",
-    "mailId": "himanshubari789@gmail.com",
-    "skills": [
-        {
-            "name": "HTML",
-            "version": "5"
-        },
-        {
-            "name": "CSS",
-            "version": "3"
-        },
-        {
-            "name": "JavaScript",
-            "version": "ES6"
-        },
-        {
-            "name": "React.js",
-            "version": "<16"
-        },
-        {
-            "name": "Next.js (App + Page)",
-            "version": "<13"
-        },
-        {
-            "name": "JavaScript",
-            "version": "ES6"
-        },
-        {
-            "name": "Firebase"
-        },
-        {
-            "name": "Tailwind CSS"
-        },
-        {
-            "name": "Material UI"
-        },
-        {
-            "name": "Mantine UI"
-        },
-        {
-            "name": "Node.js/Express.js"
-        },
-        {
-            "name": "MongoDB - mongoose"
-        },
-        {
-            "name": "Google Workspace"
-        },
-        {
-            "name": "MS Office"
-        }
-    ],
-    "educationalQualifications": [
-        {
-            "name": "Diploma in Information Technology",
-            "instututionName": "Gujarat Technical University, Ahmedabad",
-            "passingYear": "2022",
-            "percentage": null,
-            "cgpa": 8.2,
-            "tenure": 3
-        },
-        {
-            "name": ""
-        }
-    ]
+  "personalInfo": {
+    "name": "Mr. Himanshu Yuvraj Bari",
+    "fatherName": "Mr. Yuvraj Sohanlal Bari",
+    "dateOfBirth": "17 Dec 2001",
+    "address": "Chala, Vapi - Gujarat",
+    "contactNumber": "+91 88499 59488",
+    "email": "himanshubari789@gmail.com"
+  },
+  "experience": [
+    {
+      "position": "Web Developer",
+      "companyName": "Kalkani Systems",
+    "companyLocation": {
+    "city": "Surat",
+    "state": "Gujarat",
+    },
+      "startDate": "Dec 2022",
+      "endDate": "Feb 2023",
+      "techStack": ["Next.js/React.js", "Typescript", "Tailwind CSS", "Node.js"],
+      "jobDescriptions": [
+        "Developed Dynamic Websites with code reviews and best practices",
+        "Learned Typescript, Tailwind CSS, Strapi, Next.js",
+        "Used Libraries: React Query, Formik, React From Hook, Yup, Constate, Mantine UI, Material UI, i18next, react leaflet, CLSX, and more"
+      ]
+    }
+  ],
+  "skills": [
+    "HTML", "CSS", "JavaScript",
+    "React.js","Next.js",
+    "TypeScript",
+    "Tailwind CSS",
+    "Node.js", "Express.js","RestAPI",
+    "Strapi CMS",
+    "MongoDB - Atlas, mongoose, compass",
+    "Google Workspace","MS Office - Word, Powerpoint, Excel"
+  ],
+  "education": [
+    {
+      "qualification": "Diploma in Information Technology (3 years)",
+      "university": "Gujarat Technological University",
+      "yearOfPassing": 2022,
+      "percentage": "8.2 CGPA"
+    },
+    {
+      "qualification": "SSC",
+      "board": "Gujarat Higher and Secondary Education Board",
+      "yearOfPassing": 2018,
+      "percentage": "63%"
+    }
+  ],
+  "projectWork": "Did a Project Work titled ‘College Website’ for the Gujarat Technical University Examination, April 2021, under the guidance of Mr. Rajesh Kumar Pendem, Department of Information Technology.",
+  "additionalQualification": [
+    {
+      "courseName": "Course on Computer Concept",
+      "organization": "A Tech Square Institute - AICE",
+      "yearOfCertification": 2018
+    },
+    {
+      "courseName": "Responsive Web Design",
+      "organization": "Free Code Camp",
+      "yearOfCertification": 2021
+    },
+    {
+      "courseName": "JavaScript Algorithms and Data Structures",
+      "organization": "Free Code Camp",
+      "yearOfCertification": 2021
+    }
+  ],
+  "projectLinks": {
+    "github": "https://github.com/HimanshuBari21",
+    "linkedin": "https://www.linkedin.com/in/himanshu-bari-8b31071b1/",
+    "codepen": "https://codepen.io/hbdcode",
+    "personalWebsite": "https://himanshu-bari-profile.netlify.app"
+  },
+  "coCurricularActivities": [
+    "Participated in the project presentation at Government Polytechnic Daman on the Topic of Vertical Farming."
+  ],
+  "extraCurricularActivities": [
+    "Interested in sports like Cycling, Cricket, Swimming.",
+    "Drawing and Painting.",
+    "Participated as a Volunteer during the President’s visit to Daman in 2020."
+  ],
+  "otherSkills": [
+    "Strong and persuasive interpersonal skills.",
+    "Positive thinking.",
+    "Team building.",
+    "Hardworking.",
+    "Proficient in handling the latest technological updates.",
+    "Good communication skills"
+  ],
+  "languagesKnown": {
+    "read": ["English", "Hindi", "Marathi", "Gujarati"],
+    "write": ["English", "Hindi", "Marathi", "Gujarati"],
+    "speakListen": ["English", "Hindi", "Marathi"]
+  },
+  "professionalSkills": "A Creative/Enthusiastic/Hardworking Developer interested in updating knowledge and technical skills. Interested in innovative Technical and helpful Project.",
+  "references": [
+    {
+      "name": "Dr. Rakesh Kumar Bhujade",
+      "designation": "Head of Information Technology Department",
+      "organization": "Govt. Polytechnic Daman",
+      "email": "rakesh.bhujade@gmail.com",
+      "contactNumber": "+91 92298 53636"
+    },
+    {
+      "name": "Mr. Saprativa Bhattacharjee",
+      "designation": "Lecturer in Department of Information Technology",
+      "organization": "Govt. Polytechnic Daman",
+      "email": "saprativa.bhatt@gmail.com",
+      "contactNumber": "+91 86386 73107"
+    },
+    {
+      "name": "Mr. Rahul Kalkani",
+      "designation": "Software Architect / Managing Director",
+      "organization": "Kalkani Systems Pvt. Ltd",
+      "email": "rahulkalkani@gmail.com"
+    }
+  ],
+  "declaration": "I hereby declare that the above-given information is true to the best of my knowledge."
 }
